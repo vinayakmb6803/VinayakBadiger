@@ -5,7 +5,7 @@ I am Vinayak and I am interested in all things data and machine learning systems
 Check out my [Portfolio](https://github.com/vinayakmb6803/Portfolio) for all of my projects, micro-projects, skills, certificates, and achievements. 
 
 <!--
-**VinayakBadiger/VinayakBadiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vinayakmb6803/vinayakmb6803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://github.com/VinayakBadiger/VinayakBadiger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archd3sai&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/vinayakmb6803/vinayakmb6803">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakmb6803&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 -->
 
 ## My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=archd3sai&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arch's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=vinayakmb6803&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arch's GitHub Stats" />
 </a>
